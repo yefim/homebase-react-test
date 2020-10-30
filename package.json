@@ -1,0 +1,16 @@
+{
+  "name": "homebase-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "homebase-react": "0.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
